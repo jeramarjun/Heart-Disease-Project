@@ -52,19 +52,19 @@ based on the model's prediction.
 
 The web application collects the following information:
 
-  Feature           Description
-  ----------------- ------------------------------------------------
-  Age               Patient age
-  Sex               Patient sex
-  Chest Pain Type   Type of chest pain
-  RestingBP         Resting blood pressure
-  Cholesterol       Cholesterol level
-  FastingBS         Whether fasting blood sugar is above 120 mg/dL
-  RestingECG        Resting electrocardiogram result
-  MaxHR             Maximum heart rate
-  ExerciseAngina    Exercise-induced angina
-  Oldpeak           ST depression
-  ST_Slope          Slope of the ST segment during exercise
+ | Feature | Description |
+|---|---|
+| Age | Patient age |
+| Sex | Patient sex |
+| Chest Pain Type | Type of chest pain |
+| RestingBP | Resting blood pressure |
+| Cholesterol | Cholesterol level |
+| FastingBS | Whether fasting blood sugar is above 120 mg/dL |
+| RestingECG | Resting electrocardiogram result |
+| MaxHR | Maximum heart rate |
+| ExerciseAngina | Exercise-induced angina |
+| Oldpeak | ST depression |
+| ST_Slope | Slope of the ST segment during exercise |
 
 ## Technologies Used
 
@@ -155,4 +155,4 @@ Display prediction
 
 The Streamlit application currently displays the project title as:
 
-> Heart Stroke Prediction by Sumanth
+> Heart Stroke Prediction by Arjun
